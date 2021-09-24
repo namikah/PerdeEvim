@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perde Evim", "Perde Evim\Perde Evim.csproj", "{0A4048AF-6B37-4DFE-9D72-CE62FC8CF6CD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{26B8F946-CE7F-4887-8906-8913FCFA467D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A4048AF-6B37-4DFE-9D72-CE62FC8CF6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4048AF-6B37-4DFE-9D72-CE62FC8CF6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4048AF-6B37-4DFE-9D72-CE62FC8CF6CD}.Debug|x86.ActiveCfg = Debug|x86
+		{0A4048AF-6B37-4DFE-9D72-CE62FC8CF6CD}.Debug|x86.Build.0 = Debug|x86
+		{0A4048AF-6B37-4DFE-9D72-CE62FC8CF6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4048AF-6B37-4DFE-9D72-CE62FC8CF6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4048AF-6B37-4DFE-9D72-CE62FC8CF6CD}.Release|x86.ActiveCfg = Release|x86
+		{0A4048AF-6B37-4DFE-9D72-CE62FC8CF6CD}.Release|x86.Build.0 = Release|x86
+		{26B8F946-CE7F-4887-8906-8913FCFA467D}.Debug|Any CPU.ActiveCfg = Debug
+		{26B8F946-CE7F-4887-8906-8913FCFA467D}.Debug|x86.ActiveCfg = Debug
+		{26B8F946-CE7F-4887-8906-8913FCFA467D}.Release|Any CPU.ActiveCfg = Release
+		{26B8F946-CE7F-4887-8906-8913FCFA467D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6504F19F-8D9A-454B-9D0F-D4AACEB764D8}
+	EndGlobalSection
+EndGlobal

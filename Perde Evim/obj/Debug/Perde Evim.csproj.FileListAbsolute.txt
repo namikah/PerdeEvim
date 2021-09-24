@@ -1,0 +1,118 @@
+C:\Users\namikah\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Properties.Resources.resources
+C:\Users\namikah\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csproj.GenerateResource.Cache
+C:\Users\namikah\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Form1.resources
+C:\Users\namikah\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.info.resources
+C:\Users\namikah\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Parol.resources
+C:\Users\namikah\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.ParolMain.resources
+C:\Users\namikah\Desktop\Perde Evim\Perde Evim\bin\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\Perde Evim\Perde Evim\bin\Debug\Perde Evim.pdb
+C:\Users\namikah\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.pdb
+C:\Users\ibrahimaa\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.exe
+C:\Users\ibrahimaa\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.pdb
+C:\Users\ibrahimaa\Desktop\Perde Evim\Perde Evim\bin\Debug\Perde Evim.exe
+C:\Users\ibrahimaa\Desktop\Perde Evim\Perde Evim\bin\Debug\Perde Evim.pdb
+C:\Users\ibrahimaa\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Form1.resources
+C:\Users\ibrahimaa\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.info.resources
+C:\Users\ibrahimaa\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Parol.resources
+C:\Users\ibrahimaa\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.ParolMain.resources
+C:\Users\ibrahimaa\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Properties.Resources.resources
+C:\Users\ibrahimaa\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csproj.GenerateResource.Cache
+C:\Users\ibrahimaa\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csprojResolveAssemblyReference.cache
+E:\NAMIK\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde Evim.exe
+E:\NAMIK\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde Evim.pdb
+E:\NAMIK\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\bin\Debug\Perde Evim.exe
+E:\NAMIK\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\bin\Debug\Perde Evim.pdb
+E:\NAMIK\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csprojResolveAssemblyReference.cache
+E:\NAMIK\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Form1.resources
+E:\NAMIK\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.info.resources
+E:\NAMIK\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Parol.resources
+E:\NAMIK\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.ParolMain.resources
+E:\NAMIK\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Properties.Resources.resources
+E:\NAMIK\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csproj.GenerateResource.Cache
+C:\Users\namikah\Desktop\Perde Evim - Copy\Perde Evim\obj\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\Perde Evim - Copy\Perde Evim\obj\Debug\Perde Evim.pdb
+C:\Users\namikah\Desktop\Perde Evim - Copy\Perde Evim\obj\Debug\Perde Evim.csprojResolveAssemblyReference.cache
+C:\Users\namikah\Desktop\Perde Evim - Copy\Perde Evim\obj\Debug\Perde_Evim.Form1.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy\Perde Evim\obj\Debug\Perde_Evim.info.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy\Perde Evim\obj\Debug\Perde_Evim.Parol.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy\Perde Evim\obj\Debug\Perde_Evim.ParolMain.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy\Perde Evim\obj\Debug\Perde_Evim.Properties.Resources.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy\Perde Evim\obj\Debug\Perde Evim.csproj.GenerateResource.Cache
+C:\Users\namikah\Desktop\Perde Evim - Copy\Perde Evim\bin\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\Perde Evim - Copy\Perde Evim\bin\Debug\Perde Evim.pdb
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy\Perde Evim\obj\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy\Perde Evim\obj\Debug\Perde Evim.pdb
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy\Perde Evim\obj\Debug\Perde Evim.csprojResolveAssemblyReference.cache
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy\Perde Evim\obj\Debug\Perde_Evim.Form1.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy\Perde Evim\obj\Debug\Perde_Evim.info.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy\Perde Evim\obj\Debug\Perde_Evim.Parol.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy\Perde Evim\obj\Debug\Perde_Evim.ParolMain.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy\Perde Evim\obj\Debug\Perde_Evim.Properties.Resources.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy\Perde Evim\obj\Debug\Perde Evim.csproj.GenerateResource.Cache
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy\Perde Evim\bin\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy\Perde Evim\bin\Debug\Perde Evim.pdb
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy - Copy\Perde Evim\obj\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy - Copy\Perde Evim\obj\Debug\Perde Evim.pdb
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy - Copy\Perde Evim\bin\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy - Copy\Perde Evim\bin\Debug\Perde Evim.pdb
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy - Copy\Perde Evim\obj\Debug\Perde Evim.csprojResolveAssemblyReference.cache
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy - Copy\Perde Evim\obj\Debug\Perde_Evim.Form1.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy - Copy\Perde Evim\obj\Debug\Perde_Evim.info.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy - Copy\Perde Evim\obj\Debug\Perde_Evim.Parol.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy - Copy\Perde Evim\obj\Debug\Perde_Evim.ParolMain.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy - Copy\Perde Evim\obj\Debug\Perde_Evim.Properties.Resources.resources
+C:\Users\namikah\Desktop\Perde Evim - Copy - Copy - Copy\Perde Evim\obj\Debug\Perde Evim.csproj.GenerateResource.Cache
+C:\Users\namikah\Desktop\Perde Evim 2 - Copy\Perde Evim\obj\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\Perde Evim 2 - Copy\Perde Evim\obj\Debug\Perde Evim.pdb
+C:\Users\namikah\Desktop\Perde Evim 2 - Copy\Perde Evim\bin\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\Perde Evim 2 - Copy\Perde Evim\bin\Debug\Perde Evim.pdb
+C:\Users\namikah\Desktop\Perde Evim 2 - Copy\Perde Evim\obj\Debug\Perde Evim.csprojResolveAssemblyReference.cache
+C:\Users\namikah\Desktop\Perde Evim 2 - Copy\Perde Evim\obj\Debug\Perde_Evim.Form1.resources
+C:\Users\namikah\Desktop\Perde Evim 2 - Copy\Perde Evim\obj\Debug\Perde_Evim.info.resources
+C:\Users\namikah\Desktop\Perde Evim 2 - Copy\Perde Evim\obj\Debug\Perde_Evim.Parol.resources
+C:\Users\namikah\Desktop\Perde Evim 2 - Copy\Perde Evim\obj\Debug\Perde_Evim.ParolMain.resources
+C:\Users\namikah\Desktop\Perde Evim 2 - Copy\Perde Evim\obj\Debug\Perde_Evim.Properties.Resources.resources
+C:\Users\namikah\Desktop\Perde Evim 2 - Copy\Perde Evim\obj\Debug\Perde Evim.csproj.GenerateResource.Cache
+C:\Users\namikah\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csprojResolveAssemblyReference.cache
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\bin\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\bin\Debug\Perde Evim.pdb
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.info.resources
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Parol.resources
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Properties.Resources.resources
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csproj.GenerateResource.cache
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csproj.CoreCompileInputs.cache
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde Evim.pdb
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\bin\Debug\Perde Evim.exe.config
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Main.resources
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csprojAssemblyReference.cache
+C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\bin\Debug\Perde Evim.exe.config
+C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\bin\Debug\Perde Evim.exe
+C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\bin\Debug\Perde Evim.pdb
+C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Main.resources
+C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.info.resources
+C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Parol.resources
+C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.ParolMain.resources
+C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Properties.Resources.resources
+C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csproj.GenerateResource.cache
+C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csproj.CoreCompileInputs.cache
+C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde Evim.exe
+C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\obj\Debug\Perde Evim.pdb
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\bin\Debug\Perde Evim.exe.config
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\bin\Debug\Perde Evim.exe
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\bin\Debug\Perde Evim.pdb
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Main.resources
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.info.resources
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Parol.resources
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Properties.Resources.resources
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csproj.GenerateResource.cache
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csproj.CoreCompileInputs.cache
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.exe
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.pdb
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.YeniParol.resources
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.AdminPanel.resources
+C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csprojAssemblyReference.cache
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.AdminPanel.resources
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.YeniParol.resources
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csproj.CopyComplete
