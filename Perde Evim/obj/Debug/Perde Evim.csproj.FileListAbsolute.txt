@@ -86,7 +86,6 @@ C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde Evim.exe
 C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde Evim.pdb
 C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\bin\Debug\Perde Evim.exe.config
 C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.Main.resources
-C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csprojAssemblyReference.cache
 C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\bin\Debug\Perde Evim.exe.config
 C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\bin\Debug\Perde Evim.exe
 C:\Users\NAMIK\Desktop\Nsoft\VISUAL STUDIO\C#\my prog\Perde Evim\Perde Evim\bin\Debug\Perde Evim.pdb
@@ -115,4 +114,17 @@ C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.AdminPanel.res
 C:\Users\NAMIK\Desktop\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csprojAssemblyReference.cache
 C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.AdminPanel.resources
 C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde_Evim.YeniParol.resources
-C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csproj.CopyComplete
+C:\Users\namikah\Desktop\Nsoft\Perde Evim\Perde Evim\obj\Debug\Perde Evim.csproj.AssemblyReference.cache
+C:\Users\namikah\Desktop\PerdeEvim\Perde Evim\bin\Debug\Perde Evim.exe.config
+C:\Users\namikah\Desktop\PerdeEvim\Perde Evim\bin\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\PerdeEvim\Perde Evim\bin\Debug\Perde Evim.pdb
+C:\Users\namikah\Desktop\PerdeEvim\Perde Evim\obj\Debug\Perde_Evim.AdminPanel.resources
+C:\Users\namikah\Desktop\PerdeEvim\Perde Evim\obj\Debug\Perde_Evim.Main.resources
+C:\Users\namikah\Desktop\PerdeEvim\Perde Evim\obj\Debug\Perde_Evim.info.resources
+C:\Users\namikah\Desktop\PerdeEvim\Perde Evim\obj\Debug\Perde_Evim.YeniParol.resources
+C:\Users\namikah\Desktop\PerdeEvim\Perde Evim\obj\Debug\Perde_Evim.Parol.resources
+C:\Users\namikah\Desktop\PerdeEvim\Perde Evim\obj\Debug\Perde_Evim.Properties.Resources.resources
+C:\Users\namikah\Desktop\PerdeEvim\Perde Evim\obj\Debug\Perde Evim.csproj.GenerateResource.cache
+C:\Users\namikah\Desktop\PerdeEvim\Perde Evim\obj\Debug\Perde Evim.csproj.CoreCompileInputs.cache
+C:\Users\namikah\Desktop\PerdeEvim\Perde Evim\obj\Debug\Perde Evim.exe
+C:\Users\namikah\Desktop\PerdeEvim\Perde Evim\obj\Debug\Perde Evim.pdb

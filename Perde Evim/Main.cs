@@ -1101,7 +1101,7 @@ namespace Perde_Evim
 
             try
             {
-                MyData.deleteCommand("Qrafik\\" + lbKreditNomresiQrafik.Text + ".accdb", "DELETE FROM Qrafik WHERE id Like  '" + DataQrafik.Rows[DataQrafik.CurrentCell.RowIndex].Cells["id3"].Value.ToString() + "'");
+                MyData.deleteCommand($"Qrafik\\{lbKreditNomresiQrafik.Text}.accdb", $"DELETE FROM Qrafik WHERE id Like  '{DataQrafik.Rows[DataQrafik.CurrentCell.RowIndex].Cells["id3"].Value.ToString()}'");
 
                 QrafikRefresh();
             }
@@ -1117,7 +1117,7 @@ namespace Perde_Evim
 
             try
             {
-                MyData.deleteCommand("Arxiv\\baza.accdb", "DELETE FROM Kredit WHERE id Like  '" + DataKredit.Rows[DataKredit.CurrentCell.RowIndex].Cells["id2"].Value.ToString() + "'");
+                MyData.deleteCommand("Arxiv\\baza.accdb", $"DELETE FROM Kredit WHERE id Like  '{DataKredit.Rows[DataKredit.CurrentCell.RowIndex].Cells["id2"].Value.ToString()}'");
 
                 KreditRefresh();
                 KreditNomresiRefresh();
@@ -1220,12 +1220,15 @@ namespace Perde_Evim
             if (e.KeyCode == Keys.Enter)
             {
                 string commandText = "SELECT * FROM Kredit where 1=1";
-                commandText += " and a5 Like '%" + cbKreditNomresi.Text + "%'";
-                commandText += " or a2 Like '%" + cbKreditNomresi.Text + "%'";
+                commandText += $" and a5 Like '%{cbKreditNomresi.Text}%'";
+                commandText += $" or a2 Like '%{cbKreditNomresi.Text}%'";
                 MyData.selectCommand("Arxiv\\baza.accdb", commandText);
                 MyData.dtmainKredit = new DataTable();
                 MyData.oledbadapter1.Fill(MyData.dtmainKredit);
-                try { cbKreditNomresi.Text = MyData.dtmainKredit.Rows[0]["a5"].ToString() + " " + MyData.dtmainKredit.Rows[0]["a2"].ToString(); }
+                try
+                {
+                    cbKreditNomresi.Text = $"{MyData.dtmainKredit.Rows[0]["a5"].ToString()} {MyData.dtmainKredit.Rows[0]["a2"].ToString()}";
+                }
                 catch { }
 
                 qaliqmusterikassa();
@@ -1732,7 +1735,7 @@ namespace Perde_Evim
             {
                 for (int i = 0; i < cbKreditNomresi.Text.Length; i++)
                 {
-                    if (cbKreditNomresi.Text.Substring(i, 1) == " ")
+                    if (cbKreditNomresi.Text[i] == ' ')
                     {
                         um = cbKreditNomresi.Text.Substring(0, i);
                         break;
@@ -1743,7 +1746,7 @@ namespace Perde_Evim
 
             try
             {
-                MyData.selectCommand("Arxiv\\baza.accdb", "Select * From Kredit WHERE a5 Like '%" + um + "%'");
+                MyData.selectCommand("Arxiv\\baza.accdb", $"Select * From Kredit WHERE a5 Like '%{um}%'");
                 MyData.dtmainKredit=new DataTable();
                 MyData.oledbadapter1.Fill(MyData.dtmainKredit);
 
